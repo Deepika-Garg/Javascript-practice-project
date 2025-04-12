@@ -1,1 +1,1 @@
-# Javescript-mini-projects-practice
+# Javescript-practice-project
